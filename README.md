@@ -21,7 +21,7 @@ La aplicación permite:
 
 1. Clona el repositorio.
    ```bash
-   git clone https://github.com/Luis7769/roommates-manager.git
+   git clone https://github.com/IAGA79/roommates-manager.git
    npm install -> dependencias 
    node server.js //correr el proyecto
 
